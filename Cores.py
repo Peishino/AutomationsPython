@@ -1,0 +1,9 @@
+NarutoCollor = [(242,185,151)] # rosa claro
+BlueVariations = [(2,113,182),(6,163,222),(3,178,217)] # azuis
+InputsLoginSreenCollor = [(24,29,42)] # preto azulado
+WhiteVariations = [(236,236,236),(222,222,222),(255,255,255)] # branco 
+RegisterConfirmCollor = [(65,111,16),(117,160,38),(26,240,77)] # verde
+ServerIconCollor = [(204,204,204)] # cinza
+ServerInputColor = [(117,117,117)] # preto claro
+OrangeButtons = [(248,115,25),(195,78,3),(236,96,38)] # laranja
+YellowButtons = [(255,249,21),(240,195,3)] #amarelos
